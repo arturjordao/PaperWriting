@@ -3,7 +3,7 @@
 
 [Part 2](https://youtu.be/7CiJyGSK7oQ) - Related Work and the State of the Art
 
-Part 3 - Preliminaries and Problem Definition
+[Part 3](https://youtu.be/0DjaHstMOgo) - Preliminaries and Problem Definition
 
 Part 4 - Experiments
 
