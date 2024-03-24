@@ -1,4 +1,4 @@
-# Vídeos (coming soon)
+# Vídeos
 [Part 1](https://youtu.be/LKHZ_Bfcul8) - Overview and Introduction (Slides 3 - 12)
 
 [Part 2](https://youtu.be/7CiJyGSK7oQ) - Related Work and the State of the Art (Slides 15 - 27)
