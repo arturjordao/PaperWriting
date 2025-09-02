@@ -10,3 +10,6 @@
 [Part 5](https://youtu.be/XwMvlIFoZOg) - Teaser (Slides 55 - 64)
 
 [Part 6](https://youtu.be/wlIWRlwYpTI) - CheckList (Slides 65 - 80)
+
+# Slides in LaTex (Mandatory)
+[Video Tutorial](https://youtu.be/5fptqcrSBg4)
